@@ -107,3 +107,4 @@ Histogram dibuat dengan berdasarkan rumus rnorm. Untuk penamaan histogram, ditul
 Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal. 
 Nilai varian dicari menggunakan rumus distribusi normal dimana x = random variabel
 ![image](https://user-images.githubusercontent.com/90702710/162610891-94cf5793-5a19-4fee-ac65-76cd65697930.png)
+
