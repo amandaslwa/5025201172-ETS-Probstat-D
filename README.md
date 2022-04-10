@@ -1,5 +1,5 @@
 # Hasil Pembahasan ETS Probstat
-[5025201172_ETS_Probstat_D.pdf](https://github.com/amandaslwa/5025201172-ETS-Probstat-D/files/8458623/5025201172_ETS_Probstat_D.pdf)
+[5025201172_ETS_Probstat_D.pdf](https://github.com/amandaslwa/5025201172-ETS-Probstat-D/files/8458647/5025201172_ETS_Probstat_D.pdf)
 
 ## Nomor 1
 ### 1a
@@ -21,9 +21,10 @@ Kedua hasil nilainya hampir sama, hanya selisih 0.0004. Yang membuatnya berbeda 
 ### 1d
 Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama
 
-![image](https://user-images.githubusercontent.com/90702710/162610126-9d2327e6-31c8-4f26-a074-e2718748bd9b.png)
+![image](https://user-images.githubusercontent.com/90702710/162611543-815190f2-8bd8-4145-b0c8-75c2fcc8d795.png)
 
-![image](https://user-images.githubusercontent.com/90702710/162610129-3fb75971-8dea-4a1d-9c64-1fbfb895876f.png)
+![image](https://user-images.githubusercontent.com/90702710/162611546-98f554bb-ef26-43e3-a7ff-7861713c885e.png)
+
 
 ### 1e
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik
